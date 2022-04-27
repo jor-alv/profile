@@ -6,7 +6,7 @@ body {
   font-weight: normal;
   line-height: 1.59;
   letter-spacing: 0.5pt;
-  background-color: #ffffff;
+  background-color: #181A1F;
   color: #ffffff;
 }
 
@@ -22,11 +22,11 @@ strong {
 }
 
 a {
-  color: #009ada;
+  color: #61AFEF;
 }
 
 a:hover {
-  color: #e31b6d
+  color: #E06C75
 }
 
 /* Class selectors */
@@ -38,13 +38,13 @@ a:hover {
 
 .card-very-dark-grayish-blue {
   text-align: center;
-  background: #262f38;
+  background: #21252B;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
 .card-profile-picture {
-  background: #262f38;
+  background: #21252B;
   text-align: center;
   padding: 28px 0px;
 }
